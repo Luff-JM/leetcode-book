@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Fucking Leetcode',
   description: '前端也该刷点算法题！',
+  base: '/leetcode-book/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
