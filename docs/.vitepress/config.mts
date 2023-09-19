@@ -17,14 +17,17 @@ export default defineConfig({
         text: '贪心算法',
         collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
+          {
+            text: '0135.Candy',
+            link: '/leetcode/greedy/0135',
+          },
+          // { text: 'Runtime API Examples', link: '/api-examples' },
         ],
       },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'github', link: 'https://github.com/lxj0501/leetcode-book' },
     ],
   },
 });
