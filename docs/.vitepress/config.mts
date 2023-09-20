@@ -28,6 +28,10 @@ export default defineConfig({
             text: '0135.Candy',
             link: '/leetcode/greedy/0135',
           },
+          {
+            text: '0316.Remove Duplicate Letters',
+            link: '/leetcode/greedy/0316',
+          },
           // { text: 'Runtime API Examples', link: '/api-examples' },
         ],
       },
