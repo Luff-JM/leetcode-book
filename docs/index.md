@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /leetcode/
+      link: /leetcode/greedy/0135
     - theme: alt
       text: GitHub
-      link: /api-examples
+      link: https://github.com/lxj0501/leetcode-book
 
 # features:
 #   - title: Feature A

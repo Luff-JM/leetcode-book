@@ -5,11 +5,18 @@ export default defineConfig({
   title: 'Fucking Leetcode',
   description: '前端也该刷点算法题！',
   base: '/leetcode-book/',
+  lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern:
+        'https://github.com/lxj0501/leetcode-book/edit/master/docs/:path',
+      text: '有问题提PR',
+    },
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '题解', link: '/leetcode/' },
+      { text: '题解', link: '/leetcode/greedy/0135' },
     ],
 
     sidebar: [
