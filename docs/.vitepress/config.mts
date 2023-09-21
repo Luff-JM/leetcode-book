@@ -32,6 +32,10 @@ export default defineConfig({
             text: '0316.Remove Duplicate Letters',
             link: '/leetcode/greedy/0316',
           },
+          {
+            text: '0763.Partition Labels',
+            link: '/leetcode/greedy/0763',
+          },
           // { text: 'Runtime API Examples', link: '/api-examples' },
         ],
       },
