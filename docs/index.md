@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /leetcode/greedy/0135
+      link: /leetcode/bfs/0102
     - theme: alt
       text: GitHub
       link: https://github.com/lxj0501/leetcode-book
