@@ -34,8 +34,16 @@ function sidebar() {
       collapsed: true,
       items: [
         {
-          text: '0102.Candy',
+          text: '0102.Binary Tree Level Order Traversal',
           link: '/leetcode/bfs/0102',
+        },
+        {
+          text: '0103.Binary Tree Zigzag Level Order Traversal',
+          link: '/leetcode/bfs/0103',
+        },
+        {
+          text: '0107.Binary Tree Level Order Traversal II',
+          link: '/leetcode/bfs/0107',
         },
       ],
     },
