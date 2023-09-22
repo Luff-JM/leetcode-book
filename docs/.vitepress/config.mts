@@ -45,6 +45,10 @@ function sidebar() {
           text: '0107.Binary Tree Level Order Traversal II',
           link: '/leetcode/bfs/0107',
         },
+        {
+          text: '111.Minimum Depth of Binary Tree',
+          link: '/leetcode/bfs/0111',
+        },
       ],
     },
     {
