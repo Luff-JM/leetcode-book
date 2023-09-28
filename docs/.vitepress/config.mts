@@ -49,6 +49,10 @@ function sidebar() {
           text: '111.Minimum Depth of Binary Tree',
           link: '/leetcode/bfs/0111',
         },
+        {
+          text: '310.Minimum Height Trees',
+          link: '/leetcode/bfs/0310',
+        },
       ],
     },
     {
